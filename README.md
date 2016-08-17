@@ -25,7 +25,7 @@ Recommended: clone the [template class](https://github.com/sunday-school/_templa
 
 Speculative classes, or those that have not yet been implemented, should have repo names surrounded by underscores, e.g. `_speculative-class_`. 
 
-Exact use of the repository, and creation of sub-directories and additional documents, can depend on the class—you should not feel restricted by any of these suggestions! We do really recommend at least writing the __README.md__ and some ordering of content in the __syllabus.md__. 
+Exact use of the repository, and creation of sub-directories and additional documents, can depend on the class—you should not feel restricted by any of these suggestions! For legibility, we recommend using __README.md__ for class overview and syllabus. 
 
 ## Branding
 
