@@ -3,17 +3,15 @@ For goals, templates, how-tos, structuring, etc.
 
 ## What is Learning Gardens?
 
-Learning Gardens is a platform to support learning, exploration, and community-building.
+Learning Gardens is a platform to support institution-free learning, exploration, and community-building.
 
 At its simplest it is advice on how to start a reading group. At its most complex, you and your friends can achieve nirvana. 
 
-~~Sunday School is an architecture and community for study groups. ~~
+~~Sunday School is an architecture and community for study groups.~~
 
 ~~Book groups are ubiquitous, but what if they focused on more than reading fiction? What if anyone could participate? What if all the meeting notes were online? What if any group could tune into a group elsewhere?~~
 
-When people finish college, there’s often a void of focused study. Peer-oriented, interest-driven study and action is better than coursework anyway. Learning Gardens seeks to help support and share decentralized, any-subject, communal study or work efforts. 
-
-Learning Gardens aims to make it easier to start and facilitate these activities. 
+Outside of college, there’s often a void of focused study. Peer-oriented, interest-driven study and action is better than coursework anyway. Learning Gardens seeks to support new learning endeavors, help support their ongoing structure, and share it all—decentralized, any-subject, communal study or work efforts. 
 
 ## Some Key Values
 
@@ -34,7 +32,7 @@ We hold some values key to how we’ve oriented the project.
 
 ## What to do?
 
-~~Recommended: clone the [template class](https://github.com/sunday-school/_template-class_) as an example of some structure we expect to see in each course repository. ~~
+~~Recommended: clone the [template class](https://github.com/sunday-school/_template-class_) as an example of some structure we expect to see in each course repository.~~
 
 ???
 
@@ -53,6 +51,8 @@ Exact use of the repository, and creation of sub-directories and additional docu
 See also our are.na channel: [are.na/edouard-u/learning-gardens](https://www.are.na/edouard-u/learning-gardens). Poke around to get a sense for what we’re aiming for. 
 
 Sign up for Slack and github: [learning-gardens.github.io/](http://learning-gardens.github.io/).
+
+We’re using Figma to keep a messy desk on branding/ideation. 
 
 ## Story
 
