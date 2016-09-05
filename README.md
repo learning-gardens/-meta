@@ -42,7 +42,7 @@ We hold some values key to how we’ve oriented the project.
 
 ## Some Guidelines & Tips
 
-Speculative classes, or those that have not yet been implemented, should have repo names surrounded by underscores, e.g. `_speculative-class_`. 
+Speculative classes, or those that have not yet been implemented, should have repo names beginning with an underscore, e.g. `_speculative-class`. Meta-level repos (or “stickies” of sorts) will begin with two, e.g. `__meta`.
 
 Exact use of the repository, and creation of sub-directories and additional documents, can depend on the class—you should not feel restricted by any of these suggestions! For legibility, we recommend using __README.md__ for class overview and syllabus, please!
 
