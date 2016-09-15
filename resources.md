@@ -18,7 +18,7 @@ Want to get a landscape of postcolonial theory? As usual, find some friends, fig
 
 There is no right way to teach. It’s all context-dependent. Who are the students? Who are the teachers? What is the space, the time, the topic? Stay sensitive to these things. 
 
-That said, we can pretty comfortably say that people learn well when they are pushed into unknown areas but with a good foundation and confidence, so as to enable [flow](https://en.wikipedia.org/wiki/Flow_(psychology). Learners should be both encouraged and challenged. 
+That said, we can pretty comfortably say that people learn well when they are pushed into unknown areas but with a good foundation and confidence, so as to enable [flow](https://en.wikipedia.org/wiki/Flow_(psychology)). Learners should be both encouraged and challenged. 
 
 Their environment should empower whatever type of learning is necessary: if learning through reading, perhaps a quiet, reflective space. If learning through spatial exploration, perhaps field trips make the most sense! 
 
@@ -27,6 +27,9 @@ It’s usually not necessary to memorize things when you understand them.
 The best time to learn about something is typically just when you need it. After that, [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) helps. 
 
 ![Spaced Repetition Visualization](http://i2.wp.com/www.keytokorean.com/wp-content/uploads/2013/07/cramming-vs-spaced-reps.png?zoom=2&resize=780%2C389) 
+
+Multimodality is important for various learners: don’t just read! Read, talk, look, experiment, play, touch, listen, smell, etc. Field trips are great, even if just an excuse to go somewhere with people.
+
 (image by Jack Cheng)
 
 I (Lukas) keep an are.na channel on [Effective Pedagogy](https://www.are.na/lukas-wp/effective-pedagogy) links and thoughts. 
@@ -37,7 +40,6 @@ We don’t intend to tell you exactly how to do your group. Every one can (and p
 
 But, we can make some large claims for effective learning! We espouse:
 
-- __Multimodal learning__ (don’t just read; read, talk, look, experiment, play, touch, listen, smell, etc). Field trips are great, even if just an excuse to go somewhere with people. 
 - __Regularity__. Without regularity groups can easily lose momentum or focus. We recommend seeking a regular time and place if possible, and meeting at least once a month.
 - __Manage group size__. Most conversations happen best with 2-5 people. If you have a learning group larger than this, consider breaking it down into sub-groups for discussions. 
 - __Leadership__. Sometimes it works with one person taking leadership duties—logistics, “assignments,” etc—and sometimes it makes sense to jump between people. We only recommend asserting something, so that it isn’t aimless. You can re-structure later if need-be. 
