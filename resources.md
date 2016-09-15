@@ -28,9 +28,9 @@ The best time to learn about something is typically just when you need it. After
 
 ![Spaced Repetition Visualization](http://i2.wp.com/www.keytokorean.com/wp-content/uploads/2013/07/cramming-vs-spaced-reps.png?zoom=2&resize=780%2C389) 
 
-Multimodality is important for various learners: don’t just read! Read, talk, look, experiment, play, touch, listen, smell, etc. Field trips are great, even if just an excuse to go somewhere with people.
-
 (image by Jack Cheng)
+
+Multimodality is important for various learners: don’t just read! Read, talk, look, experiment, play, touch, listen, smell, etc. Field trips are great, even if just an excuse to go somewhere with people.
 
 I (Lukas) keep an are.na channel on [Effective Pedagogy](https://www.are.na/lukas-wp/effective-pedagogy) links and thoughts. 
 
