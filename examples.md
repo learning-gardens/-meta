@@ -9,11 +9,13 @@ Intro / Structure / Tools / Topics / Contact
 ## Math/CS Reading Group
 
 __Intro__
+
 The “Math/CS Reading Group” started in June 2016. Max Kaplan emailed some of his friends—mostly Brown University graduates in Math, Computer Science, or Applied Math—and they invited some of their friends, with a desire to talking about various topics sitting between math and CS. 
 
 The group is ongoing indefinitely. 
 
 __Structure__
+
 The group meets for about an hour every other week, on Mondays at 9:30pm EST / 6:30pm PST. The group is highly distributed—some people in Seattle, Baltimore, NYC, Los Angeles, and more—so we meet via Google Hangouts. 
 
 In preparation for each session, one person in the group selects a paper (or course notes, or a subset of a book, etc) that every member reads. The person who made the selection then leads a lecture on the subject and is expected to have done additional research into the context and details of the subject (only to an extent! things are casual). The presenter can present however they would like.
