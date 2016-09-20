@@ -35,6 +35,17 @@ We hold some values key to how we’ve oriented the project.
 - __Multi- and Trans-disciplinary__
 	- The world of the 21st century has largely outgrown a set of disciplines that were defined in late 19th century Germany. Let’s not restrict ourselves by those. 
 
+<<<<<<< HEAD:README.md
+=======
+## What to do?
+
+~~Recommended: clone the [template class](https://github.com/learning-gardens/_template-class_) as an example of some structure we expect to see in each course repository.~~
+
+???
+
+(perhaps here… look at some examples, give some possible framing devices or ideas)
+
+>>>>>>> origin/master:readme.md
 ## Some Guidelines & Tips
 
 Speculative classes, or those that have not yet been implemented, should have repo names beginning with an underscore, e.g. `_speculative-class`. Meta-level repos (or “stickies” of sorts) will begin with two, e.g. `__meta`.
@@ -47,7 +58,7 @@ Exact use of the repository, and creation of sub-directories and additional docu
 
 See also our are.na channel: [are.na/edouard-u/learning-gardens](https://www.are.na/edouard-u/learning-gardens). Poke around to get a sense for what we’re aiming for. 
 
-Sign up for Slack and github: [learning-gardens.github.io/](http://learning-gardens.github.io/).
+Sign up for Slack and github: [http://learning-gardens.co/](http://learning-gardens.co/).
 
 We’re using Figma to keep a messy desk on branding/ideation. 
 
