@@ -32,7 +32,7 @@ We hold some values key to how we’ve oriented the project.
 
 ## What to do?
 
-~~Recommended: clone the [template class](https://github.com/sunday-school/_template-class_) as an example of some structure we expect to see in each course repository.~~
+~~Recommended: clone the [template class](https://github.com/learning-gardens/_template-class_) as an example of some structure we expect to see in each course repository.~~
 
 ???
 
@@ -50,7 +50,7 @@ Exact use of the repository, and creation of sub-directories and additional docu
 
 See also our are.na channel: [are.na/edouard-u/learning-gardens](https://www.are.na/edouard-u/learning-gardens). Poke around to get a sense for what we’re aiming for. 
 
-Sign up for Slack and github: [learning-gardens.github.io/](http://learning-gardens.github.io/).
+Sign up for Slack and github: [http://learning-gardens.co/](http://learning-gardens.co/).
 
 We’re using Figma to keep a messy desk on branding/ideation. 
 
