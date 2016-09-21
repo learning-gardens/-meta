@@ -5,9 +5,13 @@ For goals, templates, how-tos, structuring, etc.
 
 “Étudiants sans Frontières”
 
-_Learning Gardens is a meta-organization to support non-institutional learning, exploration, and community-building._ 
+_Learning Gardens is a meta-organization to support grassroots non-institutional learning, exploration, and community-building._
 
-At its simplest it is advice on how to start a reading group. At its most complex, you and your friends can achieve nirvana. 
+We support learning groups in any discipline to structure their own lessons, community, and learning styles. 
+
+If we succeed in our mission, participating groups should feel empowered without institutional shackles. Community-based learning—free, with friends, using public resources—is simply a more sustainable and distributed form of learning for the 21st century. 
+
+At its simplest, Learning Gardens gives advice on how to start a reading group. At its most complex, you and your friends can achieve nirvana. 
 
 Outside of college, there’s often a void of focused study. Peer-oriented, interest-driven study and action is better than coursework anyway. Learning Gardens seeks to support new learning endeavors, help support their ongoing structure, and share it all—decentralized, any-subject, communal study or work efforts. 
 
