@@ -77,3 +77,18 @@ A good starting place is to see how other people have done it! Googling around f
 
 - [Syllabus Archive](https://www.are.na/lukas-wp/syllabus-archive) on are.na.
 - [The Open Syllabus Project](http://opensyllabusproject.org/) 
+
+## Reading Suggestions
+
+There’s so much writing on pedagogy to read. It’s overwhelming! You can get degrees in it! Maybe you should make a learning group about learning? (that’s _kinda_ what Learning-Gardens is…). 
+
+If you are new to thinking about pedagogy and school, I recommend these reads:
+1. [Education Without School: How It Can Be Done by Ivan Illich](https://s3.amazonaws.com/arena-attachments/715330/74e3e5915eb12b0c92d31c6e435bf781.pdf)
+2. [Knowing-in-Action by Donald Schön](https://s3.amazonaws.com/arena-attachments/556045/ee07f0fe04d3297a2d107f2b3b2a7634.pdf)
+3. [Effective Learning Techniques](https://s3.amazonaws.com/arena-attachments/678285/9a620841cb70354342f74a637337126d.pdf). Don’t read the whole thing—focus on the learning techniques. 
+
+
+Some additional reading:
+- Tune into [Roberto Greco’s Writing](http://robertogreco.tumblr.com/writing). He’s committed to “unschooling” and effective small-group childhood education. 
+- [A Mathematician’s Lament](https://www.are.na/block/506934) by Paul Lockhart. It focuses on mathematics but is extremely relevant to any non-mathematician and non-math teacher because of the arguments for types of learning it makes. (Reading this when I was 17 made me give a shit about education -Lukas.)
+- Poke through our [Effective Pedagogy channel](https://www.are.na/lukas-wp/effective-pedagogy) for smaller snippits and collected items. 
