@@ -1,10 +1,20 @@
-# Example Classes
+# Example Groups
 
-What is the group? Does it have goals? Is it finite? How are meetings organized? How are materials organized? Who plans it? How is the content structured? How did it start?
+What is the group? Does it have goals? Is it finite in time? Is it broad in scope? How are meetings organized? How are materials organized? Who plans it? How is the content structured? How did it start?
 
 Intro / Structure / Tools / Topics / Contact
 
 ## Cybernetics Club
+
+__Intro__ 
+
+__Structure__
+
+__Tools__
+
+__Topics__
+
+__Contact__
 
 ## Math/CS Reading Group
 
