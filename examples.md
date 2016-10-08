@@ -76,15 +76,41 @@ Lukas - lukas@ltwp.net
 
 __Intro__ 
 
-[millennialfocusgroup.info/](http://millennialfocusgroup.info/)
+started june 2015
+
+4 reading, collaborating, presenting, critiquing, and hanging
+
+vaguely identity-oriented, creatively-inclined, internet-aware, structurally-experimental
+
+networked thinking <-----> intersectional thinking
+
+[millennialfocusgroup.info](millennialfocusgroup.info)
 
 __Structure__
 
+Facilitator manages meeting times/places and group communication.
+
+Content and themes determined by collaboration among group members.
+
+Meeting generally involves discussion of content, with occasional presentations by group members on topics related to theme.
+
+Meetings are open and invitations (to people outside the listserv) are spread primarily through word-of-mouth. Participation from meeting to meeting is flexible, with a slightly different alchemy of attendance at each one. This structure allows people to drift in and out as they are able and interested, and as the other responsibilities of life allow. This also means that the themes can be more creative, and can mutate to the visions and interests of different members at different times.
+
 __Tools__
+
+-are.na to gather readings (of all media)
+
+-facebook group for casual coordination/sharing/polling for interest on different potential topics
+
+-email to communicate highlighted readings + place/time/date of next meeting
 
 __Topics__
 
+examples include: The Suburbs, Death Salon, Conspiracy Theories, Queer Futurism & SciFi, Youtube You-topia, Bodies Online, Policing/Spectacle, Social Media & Autobiography, etc
+
 __Contact__
+
+mllnl.fcs.grp at gmail.com
 
 ## Brooklyn Institute for Social Research
 
