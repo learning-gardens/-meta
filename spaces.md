@@ -15,8 +15,6 @@ If your group is purely virtual, we recommend exploring ways to create a digital
 - and more!
 
 ## United States
-### NYC
-http://www.newinc.org/ 
 
 ### LA
 http://navel.la/ `*`
