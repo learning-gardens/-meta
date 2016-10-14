@@ -20,12 +20,15 @@ http://www.newinc.org/ `*`
 
 ### LA
 http://navel.la/ `*`
+
 http://machineproject.com/
+
 http://hexlabmakerspace.com/
 
 ### Providence
 http://www.browndesignworkshop.org/ `*`
-http://www.browndesignworkshop.org/ `*`
+
+http://www.as220.org `*`
 
 ### Boston
 http://artisansasylum.com/
