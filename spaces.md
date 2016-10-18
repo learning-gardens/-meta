@@ -35,6 +35,9 @@ http://www.as220.org `*`
 ### Boston
 http://artisansasylum.com/
 
+### New York
+https://movementresearch.org/ (if class is movement-related)
+
 ## International
 ### Brussels
 http://fo.am/
