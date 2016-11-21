@@ -37,6 +37,7 @@ http://artisansasylum.com/
 
 ### New York
 https://movementresearch.org/ (if class is movement-related)
+http://www.thecommonsbrooklyn.org/
 
 ## International
 ### Brussels
