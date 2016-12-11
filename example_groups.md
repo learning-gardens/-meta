@@ -4,7 +4,7 @@ What is the group? Does it have goals? Is it finite in time? Is it broad in scop
 
 Intro / Structure / Tools / Topics / Contact
 
-## Cybernetics Club
+#### Cybernetics Club
 
 __Intro__ 
 
@@ -16,7 +16,7 @@ __Topics__
 
 __Contact__
 
-## Math/CS Reading Group
+#### Math/CS Reading Group
 
 __Intro__
 
@@ -48,7 +48,7 @@ __Contact__
 
 Drop us a line! Lukas - lukas@ltwp.net
 
-## Math Mornings (Topology)
+#### Math Mornings (Topology)
 
 __Intro__
 
@@ -82,7 +82,7 @@ __Contact__
 
 Lukas - lukas@ltwp.net
 
-## Millennial Focus Group
+#### Millennial Focus Group
 
 __Intro__ 
 
@@ -122,19 +122,29 @@ __Contact__
 
 mllnl.fcs.grp at gmail.com
 
-## Brooklyn Institute for Social Research
+#### A Pattern Language Reading Group
 
 __Intro__ 
 
+We’re a loose group of people that organized to get through Christopher Alexander’s legendary _A Pattern Language_. We’re approaching the book with a critical eye and seeking to apply what we can to our own work and the present-day reality. Our first meeting was in December 2016. 
+
 __Structure__
+
+We meet about every other week and read ~100 pages before each meeting. One member of the group directs each session. 
 
 __Tools__
 
+We use the LG github to host meeting notes and Google Hangouts for the chat, as the group is widely distributed. 
+
 __Topics__
+
+Urbanism, systems design, internet ecosystems, internet infrastructure, structural patterns. 
 
 __Contact__
 
-## BHFQU
+@lukas in the Slack. We’re in `#pattern_language`.
+
+#### Template
 
 __Intro__ 
 
