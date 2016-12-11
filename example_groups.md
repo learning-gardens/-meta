@@ -4,7 +4,7 @@ What is the group? Does it have goals? Is it finite in time? Is it broad in scop
 
 Intro / Structure / Tools / Topics / Contact
 
-#### Cybernetics Club
+### Cybernetics Club
 
 __Intro__ 
 
@@ -16,7 +16,7 @@ __Topics__
 
 __Contact__
 
-#### Math/CS Reading Group
+### Math/CS Reading Group
 
 __Intro__
 
@@ -48,7 +48,7 @@ __Contact__
 
 Drop us a line! Lukas - lukas@ltwp.net
 
-#### Math Mornings (Topology)
+### Math Mornings (Topology)
 
 __Intro__
 
@@ -82,7 +82,7 @@ __Contact__
 
 Lukas - lukas@ltwp.net
 
-#### Millennial Focus Group
+### Millennial Focus Group
 
 __Intro__ 
 
@@ -122,7 +122,7 @@ __Contact__
 
 mllnl.fcs.grp at gmail.com
 
-#### A Pattern Language Reading Group
+### A Pattern Language Reading Group
 
 __Intro__ 
 
@@ -144,7 +144,7 @@ __Contact__
 
 @lukas in the Slack. We’re in `#pattern_language`.
 
-#### Template
+### Template
 
 __Intro__ 
 
