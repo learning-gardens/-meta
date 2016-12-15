@@ -12,9 +12,10 @@
 
 ##### Collaborative Making
 
-- [Figma](https://www.figma.com/)
-- [Google Docs](http://docs.google.com)
-- [Pirate Pad](http://piratepad.net/)
+- [Figma](https://www.figma.com/) (layout & wireframing)
+- [Google Docs](http://docs.google.com) (writing, spreadsheeting, etc)
+- [Pirate Pad](http://piratepad.net/) (writing)
+- [Zencastr](https://zencastr.com/) (audio recording / podcasting)
 
 ##### Free Software
 
