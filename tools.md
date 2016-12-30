@@ -2,8 +2,9 @@
 
 ##### Virtual Meetings
 
-- [Google Hangouts](https://hangouts.google.com)
+- [Google Hangouts](https://hangouts.google.com) (try using in... Opera lol)
 - [Skype](https://www.skype.com/en/)
+- [Zoom](https://zoom.us/)
 
 ##### Live Sketching
 
@@ -16,6 +17,7 @@
 - [Google Docs](http://docs.google.com) (writing, spreadsheeting, etc)
 - [Pirate Pad](http://piratepad.net/) (writing)
 - [Zencastr](https://zencastr.com/) (audio recording / podcasting)
+- [Are.na](https://are.na) (media & link dumping / arranging)
 
 ##### Free Software
 
@@ -23,3 +25,4 @@
 - [R](https://www.r-project.org/) (Scientific Computing)
 - [XMind](https://www.xmind.net/) (Mind-Mapping)
 - [Jeff](https://itunes.apple.com/us/app/jeff/id934011232?mt=12) (making GIF screencaps)
+- [Sketchup](http://www.sketchup.com/) (3D modeling)
