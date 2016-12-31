@@ -26,3 +26,4 @@
 - [XMind](https://www.xmind.net/) (Mind-Mapping)
 - [Jeff](https://itunes.apple.com/us/app/jeff/id934011232?mt=12) (making GIF screencaps)
 - [Sketchup](http://www.sketchup.com/) (3D modeling)
+- [Blender](https://www.blender.org/) (more 3D modeling)
