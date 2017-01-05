@@ -4,18 +4,6 @@ What is the group? Does it have goals? Is it finite in time? Is it broad in scop
 
 Intro / Structure / Tools / Topics / Contact
 
-### Cybernetics Club
-
-__Intro__ 
-
-__Structure__
-
-__Tools__
-
-__Topics__
-
-__Contact__
-
 ### Math/CS Reading Group
 
 __Intro__
