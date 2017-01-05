@@ -18,6 +18,7 @@
 - [Pirate Pad](http://piratepad.net/) (writing)
 - [Zencastr](https://zencastr.com/) (audio recording / podcasting)
 - [Are.na](https://are.na) (media & link dumping / arranging)
+- [Notion](notion.so) (writing, project management, to-do)
 
 ##### Free Software
 
