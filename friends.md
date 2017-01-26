@@ -1,6 +1,8 @@
-# Friends
+##### Friends
 
-This is a list of organizations with which we have friendly relationships. 
+###### This is a list of organizations with which we have friendly relationships. 
+
+—
 
 #### Learning-Focused Orgs
 
